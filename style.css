@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+p{
+  display: none;
+}
+#card{
+  margin: 5px;
+  border: 2px solid black;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.card{
+  display: block;
+}
